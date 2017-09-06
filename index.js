@@ -19,7 +19,7 @@ app.use(function(req, res, next) {
 });
 
 //allows for adding functionality
-app.use(express.static('public'));
+app.use(express.static(__dirname));
 
 //start up server with listen function(port, function)
 app.listen(PORT, function() {
