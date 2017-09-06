@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/kilowulf/HTML5_Responsive_Project/issues"
     },
-    "homepage": "https://github.com/kilowulf/HTML5_Responsive_Project#readme"
+    "homepage": "https://github.com/kilowulf/HTML5_Responsive_Project#readme",
+    "dependencies": {
+        "express": "^4.15.4"
+    }
 }
